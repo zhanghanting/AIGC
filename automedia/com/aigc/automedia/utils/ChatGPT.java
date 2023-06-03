@@ -1,5 +1,4 @@
     package aigc.automedia.utils;
-
     import com.alibaba.fastjson.JSONObject;
     import org.apache.http.HttpHost;
     import org.apache.http.HttpResponse;
